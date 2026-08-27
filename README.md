@@ -28,7 +28,7 @@ To prepare the Software Requirements Specification (SRS) for a Library Managemen
 ## Communication:
 <img width="926" height="801" alt="CommunicationDiagram1" src="https://github.com/user-attachments/assets/6b8891b2-6ceb-4178-9e9c-fc36ccf068f2" />
 
-## Library:
+## Activity:
 <img width="682" height="903" alt="ActivityDiagram1" src="https://github.com/user-attachments/assets/19df4151-1a7d-432b-85a4-2e06d9e17694" />
 
 # RESULT:
